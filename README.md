@@ -1,6 +1,7 @@
 ### ☕
 
 <!--START_SECTION:badges-->
+[![Intel Technical Lead](https://images.credly.com/size/110x110/images/9844c716-1795-4561-9e4a-13bbbfcf2a37/Intel_Technical_Lead_09-2021.png)](http://www.credly.com/badges/44870edf-b81d-4458-b92b-2da3e1816f59 "Intel Technical Lead")
 [![LFD102: A Beginner's Guide to Open Source Software Development](https://images.credly.com/size/110x110/images/8d609bdc-7aea-480d-9fc8-78485af20828/LF_logobadge.png)](http://www.credly.com/badges/e69f2e96-f4ad-44fd-8ed9-5d96ea9730ad "LFD102: A Beginner's Guide to Open Source Software Development")
 [![LFD103: A Beginner's Guide to Linux Kernel Development](https://images.credly.com/size/110x110/images/43062c7b-bef9-48af-8a69-4c2a47b311ba/LF_logobadge.png)](http://www.credly.com/badges/d3fe93a6-8e0f-47aa-9aee-23f78360c080 "LFD103: A Beginner's Guide to Linux Kernel Development")
 [![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/4c76f677-fd18-4d7b-aec9-591123bfcc9a/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/cf754c1c-ee45-4ac6-b9b7-d8fa769c7b63 "LFC191: Open Source Licensing Basics for Software Developers")
