@@ -1,6 +1,7 @@
 ### ☕
 
 <!--START_SECTION:badges-->
+[![Cloud Core](https://images.credly.com/size/110x110/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)](http://www.credly.com/badges/2f20737a-301c-4413-b6e8-849c3a215824 "Cloud Core")
 [![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/5e5ddc39-b1ac-41a2-94aa-ef336c1a2c5b "Data Science Foundations - Level 1")
 [![IBM Blockchain Essentials V2](https://images.credly.com/size/110x110/images/2f9eee24-6834-4595-b2b6-e8e585190a0d/IBM-Blockchain-Essentials-V2.png)](http://www.credly.com/badges/666aa9b7-7ef2-4050-9ef2-cfff4abe6afd "IBM Blockchain Essentials V2")
 [![Intel Technical Lead](https://images.credly.com/size/110x110/images/9844c716-1795-4561-9e4a-13bbbfcf2a37/Intel_Technical_Lead_09-2021.png)](http://www.credly.com/badges/44870edf-b81d-4458-b92b-2da3e1816f59 "Intel Technical Lead")
