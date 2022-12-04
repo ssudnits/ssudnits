@@ -1,6 +1,8 @@
 ### ☕
 
 <!--START_SECTION:badges-->
+[![Accelerated Deep Learning with GPU](https://images.credly.com/size/110x110/images/4ec26fe5-fc52-4398-a675-7e77265f3b32/Accelerated_Deep_Learning_with_GPU.png)](http://www.credly.com/badges/e8129a5a-e74e-4cfd-abd2-358c85406af7 "Accelerated Deep Learning with GPU")
+[![LFD116: Software Engineering Basics for Embedded Systems](https://images.credly.com/size/110x110/images/f3c846bf-a56b-46ae-926c-b373f135703c/image.png)](http://www.credly.com/badges/50337fbd-adb6-4ec0-b45b-3260ce6c32af "LFD116: Software Engineering Basics for Embedded Systems")
 [![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/110x110/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png)](http://www.credly.com/badges/aeccb113-822f-4a8b-a825-b68f5abf7f3e "LFQ101: Fundamentals of Quantum Computing")
 [![Cloud Core](https://images.credly.com/size/110x110/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png)](http://www.credly.com/badges/2f20737a-301c-4413-b6e8-849c3a215824 "Cloud Core")
 [![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/5e5ddc39-b1ac-41a2-94aa-ef336c1a2c5b "Data Science Foundations - Level 1")
