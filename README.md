@@ -1,6 +1,7 @@
 ### ☕
 
 <!--START_SECTION:badges-->
+[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/1954a704-4966-4ea2-9127-71a60416eb47 "Docker Essentials: A Developer Introduction")
 [![Accelerated Deep Learning with GPU](https://images.credly.com/size/110x110/images/4ec26fe5-fc52-4398-a675-7e77265f3b32/Accelerated_Deep_Learning_with_GPU.png)](http://www.credly.com/badges/e8129a5a-e74e-4cfd-abd2-358c85406af7 "Accelerated Deep Learning with GPU")
 [![LFD116: Software Engineering Basics for Embedded Systems](https://images.credly.com/size/110x110/images/f3c846bf-a56b-46ae-926c-b373f135703c/image.png)](http://www.credly.com/badges/50337fbd-adb6-4ec0-b45b-3260ce6c32af "LFD116: Software Engineering Basics for Embedded Systems")
 [![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/110x110/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png)](http://www.credly.com/badges/aeccb113-822f-4a8b-a825-b68f5abf7f3e "LFQ101: Fundamentals of Quantum Computing")
