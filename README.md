@@ -1,6 +1,7 @@
 ### ☕
 
 <!--START_SECTION:badges-->
+[![Cloud Fundamentals](https://images.credly.com/size/110x110/images/78c62b9d-d7ce-4b6e-bd6f-cb10fe8cdcde/ipsp-cf-600px.png)](http://www.credly.com/badges/95da31c4-f33f-49e9-9faa-9481beee949c "Cloud Fundamentals")
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/1954a704-4966-4ea2-9127-71a60416eb47 "Docker Essentials: A Developer Introduction")
 [![Accelerated Deep Learning with GPU](https://images.credly.com/size/110x110/images/4ec26fe5-fc52-4398-a675-7e77265f3b32/Accelerated_Deep_Learning_with_GPU.png)](http://www.credly.com/badges/e8129a5a-e74e-4cfd-abd2-358c85406af7 "Accelerated Deep Learning with GPU")
 [![LFD116: Software Engineering Basics for Embedded Systems](https://images.credly.com/size/110x110/images/f3c846bf-a56b-46ae-926c-b373f135703c/image.png)](http://www.credly.com/badges/50337fbd-adb6-4ec0-b45b-3260ce6c32af "LFD116: Software Engineering Basics for Embedded Systems")
