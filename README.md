@@ -1,6 +1,7 @@
 ### ☕
 
 <!--START_SECTION:badges-->
+[![Edge AI Fundamentals](https://images.credly.com/size/110x110/images/0c6886e7-d83f-4d5e-bd4f-dd98629eb6d4/iptp-edge-ai-fundiamentals.png)](http://www.credly.com/badges/e02b45cc-95f4-4606-bab4-f49d7fc87e5f "Edge AI Fundamentals")
 [![Big Data Foundations - Level 1](https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/1eb29970-b6eb-4d9d-8aa0-df893cbab95e "Big Data Foundations - Level 1")
 [![Cloud Fundamentals](https://images.credly.com/size/110x110/images/78c62b9d-d7ce-4b6e-bd6f-cb10fe8cdcde/ipsp-cf-600px.png)](http://www.credly.com/badges/95da31c4-f33f-49e9-9faa-9481beee949c "Cloud Fundamentals")
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/1954a704-4966-4ea2-9127-71a60416eb47 "Docker Essentials: A Developer Introduction")
