@@ -1,4 +1,8 @@
-### ☕
+```
+(\_/)
+(. .)
+/ >☕
+```
 
 <!--START_SECTION:badges-->
 [![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/2f420a31-154c-4db0-aed9-098024c80859 "Cybersecurity Fundamentals")
