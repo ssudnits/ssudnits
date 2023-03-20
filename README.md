@@ -28,3 +28,5 @@
 <!--START_SECTION:gen-->
 
 <!--END_SECTION:gen-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ssudnits)](https://git.io/streak-stats)
