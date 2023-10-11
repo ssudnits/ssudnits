@@ -5,6 +5,7 @@
 ```
 
 <!--START_SECTION:badges-->
+[![Cloud Principles](https://images.credly.com/size/110x110/images/b35ff1ce-a4a9-436a-b9f3-355b65494070/image.png)](http://www.credly.com/badges/f1aad62b-4369-4f41-8c33-36defa13c786 "Cloud Principles")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/2f420a31-154c-4db0-aed9-098024c80859 "Cybersecurity Fundamentals")
 [![Edge AI Fundamentals](https://images.credly.com/size/110x110/images/0c6886e7-d83f-4d5e-bd4f-dd98629eb6d4/iptp-edge-ai-fundiamentals.png)](http://www.credly.com/badges/e02b45cc-95f4-4606-bab4-f49d7fc87e5f "Edge AI Fundamentals")
 [![Big Data Foundations - Level 1](https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/1eb29970-b6eb-4d9d-8aa0-df893cbab95e "Big Data Foundations - Level 1")
