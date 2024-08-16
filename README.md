@@ -1,4 +1,5 @@
 <!--START_SECTION:badges-->
+[![LFD121: Developing Secure Software](https://images.credly.com/size/110x110/images/69629170-8946-4168-aa1d-dff502e18683/image.png)](http://www.credly.com/badges/9e26537b-56a2-436f-8894-d4aec1ab707b "LFD121: Developing Secure Software")
 [![Cloud Principles](https://images.credly.com/size/110x110/images/b35ff1ce-a4a9-436a-b9f3-355b65494070/image.png)](http://www.credly.com/badges/f1aad62b-4369-4f41-8c33-36defa13c786 "Cloud Principles")
 [![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](http://www.credly.com/badges/2f420a31-154c-4db0-aed9-098024c80859 "Cybersecurity Fundamentals")
 [![Edge AI Fundamentals](https://images.credly.com/size/110x110/images/0c6886e7-d83f-4d5e-bd4f-dd98629eb6d4/iptp-edge-ai-fundiamentals.png)](http://www.credly.com/badges/e02b45cc-95f4-4606-bab4-f49d7fc87e5f "Edge AI Fundamentals")
